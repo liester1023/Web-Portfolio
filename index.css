@@ -1,0 +1,113 @@
+* {
+	font-family: "Roboto" , sans-serif;
+	
+	}
+
+.nav-item{
+	padding-left:20px  ;
+	padding-right:20px ;
+}
+#nav{
+	background-color: #f2f2f2;
+}
+#main-nav{
+	background-color: #1a1a1a;
+}
+
+#name{
+	font-style: italic;
+	font-weight: 700;
+	color: #15A049;	
+
+}
+#name:hover{
+	color: #f2f2f2;
+
+}
+#nav-text {
+	color: #15A049;
+	font-family: "Roboto";
+}
+
+#nav-text:hover {
+	color: #f2f2f2;
+}
+
+#home {
+	background-color: #000;
+}
+
+.liester{
+	padding-top: 150px;
+	font-style: italic;
+	font-size: 5rem;
+	color: #15A049;
+
+}
+.front-ends{
+	font-family: "Roboto";
+	font-size: 2rem;
+
+}
+#home-learn{
+	color: #15A049;
+}
+#home-img{
+background-image: url(./images/home2.jpg);
+min-height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 75% 50%;
+background-attachment: scroll;	
+}
+
+#my-name{
+color: #15A049;
+}
+#my-title{
+color: #15A049;
+}
+#my-title-1 {
+color: #15A049;
+font-style:italic;
+
+}
+#my-description{
+	color: #f2f2f2;
+}
+#core-tools{
+	background-color: #f2f2f2;
+	border-radius: 50%;
+	margin-top: 1rem;
+ }
+#contact{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	color: #15A049;
+	
+}
+#contact-main{
+	background-color: #1a1a1a;
+	margin-bottom: 2px;
+}
+.contact-section-header{
+	font-size: 1rem;
+	font-family: "Roboto";
+}
+#contact-description {
+	color:#333333;
+	font-family: "Roboto";
+	background-color: #f2f2f2;
+	border-radius: 15px;
+	border-color: #15A049;
+	border-width: 3px;
+	margin-right: 2em;
+}
+#contact-description:hover {
+	color: #15A049;
+}
+.learn-more{
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: bolder;
+}
